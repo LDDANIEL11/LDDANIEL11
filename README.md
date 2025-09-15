@@ -8,6 +8,7 @@ then the rest of the road to take for my life
 
 for now my knowledge on programming journey , HTML5 , CSS3 , Python , JavaScript , Linux , MySql 
 
+https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif
 <details>
   <summary><h2> <img align="center" src="https://github.com/LDDANIEL11/LDDANIEL11/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
